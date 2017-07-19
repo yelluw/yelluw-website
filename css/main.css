@@ -14,7 +14,7 @@
 
 .hero-background-image {
     height: 550px;
-    margin-bottom: 20px;
+    margin-bottom: 7px;
 }
 
 .hero-background-image .headline {
@@ -23,6 +23,11 @@
     padding-top: 40px;
     text-align: center;
 }
+
+.three-column-content {
+    background: #fff;
+}
+
 
 .two-column-footer {
     margin-top: 20px;
@@ -44,4 +49,9 @@
 
 body {
     font-family: 'Droid Sans', sans-serif;
+}
+
+.three-column-content-bottom {
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
