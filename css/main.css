@@ -1,0 +1,47 @@
+/*
+
+   Agency Landing Page template styles.
+    
+*/
+
+/****** Fonts ******/
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
+@import url('https://fonts.googleapis.com/css?family=Taviraj');
+
+/****** Override Bootparts styles ******/
+
+.hero-background-image {
+    height: 550px;
+    margin-bottom: 20px;
+}
+
+.hero-background-image .headline {
+    font-family: 'Taviraj', serif;
+    color: #F2D974;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.two-column-footer {
+    margin-top: 20px;
+}
+
+
+.two-column-footer {
+    background: #000;
+}
+
+.two-column-footer .list-title {
+    color: #999;
+}
+
+.two-column-footer a {
+    color: #F2D974;
+}
+/****** Template custom styles ******/
+
+body {
+    font-family: 'Droid Sans', sans-serif;
+}
