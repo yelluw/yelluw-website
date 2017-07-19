@@ -8,20 +8,13 @@
 
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans');
 
-@import url('https://fonts.googleapis.com/css?family=Taviraj');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
 
 /****** Override Bootparts styles ******/
 
-.hero-background-image {
-    height: 550px;
-    margin-bottom: 7px;
-}
-
-.hero-background-image .headline {
-    font-family: 'Taviraj', serif;
-    color: #F2D974;
-    padding-top: 40px;
-    text-align: center;
+.center-aligned-headline {
+    padding-top: 30px;
+    padding-bottom: 22px;
 }
 
 .three-column-content {
@@ -43,7 +36,7 @@
 }
 
 .two-column-footer a {
-    color: #F2D974;
+    color: #f4d425;
 }
 /****** Template custom styles ******/
 
@@ -54,4 +47,14 @@ body {
 .three-column-content-bottom {
     padding-top: 50px;
     padding-bottom: 100px;
+}
+
+.logo {
+    width: 50%;
+    height: 50%;
+}
+
+.coding-services-img {
+    height: 40%;
+    width: 40%;
 }
