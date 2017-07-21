@@ -20,6 +20,7 @@
 
 .three-column-content {
     background: #fff;
+    padding-bottom: 0px;
 }
 
 .three-column-content .column-content {
@@ -50,8 +51,8 @@ body {
 }
 
 .three-column-content-bottom {
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
 
 .logo {
