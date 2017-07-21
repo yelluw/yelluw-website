@@ -63,3 +63,59 @@ body {
     height: 30%;
     width: 30%;
 }
+
+/****** Media Queries ******/
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+    
+    /* Override Bootparts Defaults */
+
+    .three-column-content {
+        padding-bottom: 0px;
+    }
+
+    .three-column-content .column-title {
+        font-size: 1.2em;
+    }
+
+    .three-column-content .column-content {
+        font-size: 1.1em;
+        text-align: center;
+    }
+
+    /* left column */
+    .three-column-content .left-column {
+        padding-top: 15px;
+    }
+
+    /* middle column */
+    .three-column-content .middle-column {
+        padding-top: 15px;
+    }
+
+    /*right column */
+    .three-column-content .right-column {
+        padding-top: 15px;
+    }
+
+    /* Template Custom styles */
+
+    .logo {
+        width: 70%;
+        height: 70%;
+    }
+
+    .three-column-content-bottom {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .coding-services-img {
+        height: 20%;
+        width: 20%;
+    }
+
+
+
+}
