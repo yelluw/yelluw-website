@@ -22,6 +22,10 @@
     background: #fff;
 }
 
+.three-column-content .column-content {
+    text-align: justify;
+}
+
 
 .two-column-footer {
     margin-top: 20px;
